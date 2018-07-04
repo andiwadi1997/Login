@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_activity_home__utama">Home_Utama</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="pks1">Partai Keadilan Sejahtera
+Dengan bergantinya PK menjadi PKS, partai ini kembali bertanding di pemilihan umum legislatif Indonesia 2004. PKS meraih total 8,325,020 suara, sekitar 7.34% dari total perolehan suara nasional. PKS berhak mendudukkan 45 wakilnya di DPR dan menduduki peringkat keenam partai dengan suara terbanyak, setelah Partai Demokrat. Presiden partai, Hidayat Nur Wahid, terpilih sebagai ketua Majelis Permusyawaratan Rakyat dengan 326 suara, mengalahkan Sutjipto dari PDIP dengan 324 suara. Hidayat menyerahkan jabatan presiden kepada Tifatul Sembiring, juga seorang mantan aktivis kampus dan pendiri PKS.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="gerindra">Partai Gerakan Indonesia Raya atau Partai Gerindra, adalah sebuah partai politik di Indonesia yang didirikan dan diketuai oleh Letnan Jenderal TNI (Purn) H. Prabowo Subianto. Partai Gerindra berdiri pada tanggal 6 Februari 2008. Pengurus dan aktivis partai ini dicirikan dengan pakaian safari lengan pendek dan panjang, serta kopiah hitam. Inspirasi nama Gerindra berasal dari nama partai lama, Perindra, yang merupakan pemberian langsung dari Presiden Soekarno.[butuh rujukan]
+
+Pada periode 2009-2014, Partai Gerindra berada di luar kabinet pemerintahan pusat bersama Partai Demokrasi Indonesia-Perjuangan dan Partai Hanura.
+
+Pada Pemilu 2014, partai Gerindra mendapatkan 73 kursi di Dewan Perwakilan Rakyat Republik Indonesia. Partai Gerindra mengusung Prabowo Subianto selaku Ketua Dewan Pembina sebagai calon presiden. Pada periode 2014-2019, Partai Gerindra kembali berada di luar kabinet pemerintahan pusat bersama .</string>
+
+    <string name="gerindra1">Settings</string>
+    <string name="title_activity_admin_home">Admin_home</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_partai"
+            android:icon="@drawable/visi"
+            android:title="Partai_Pengusung" />
+        <item
+            android:id="@+id/nav_About"
+            android:icon="@drawable/about"
+            android:title="About" />
+    </group>
+
+    <item android:title="Fitur">
+        <menu>
+            <item
+                android:id="@+id/nav_lihat_data"
+                android:icon="@android:drawable/ic_dialog_email"
+                android:title="Lihat Data" />
+
+            <item
+                android:id="@+id/nav_Chat2"
+                android:icon="@drawable/live_chat"
+                android:title="Chat" />
+        </menu>
+    </item>
+
+</menu>

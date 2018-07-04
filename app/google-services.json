@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1601040439",
+    "firebase_url": "https://chating-30206.firebaseio.com",
+    "project_id": "chating-30206",
+    "storage_bucket": "chating-30206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1601040439:android:9a99305aa59d8e9f",
+        "android_client_info": {
+          "package_name": "com.example.user.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1601040439-rouhaq3v8at8it4uqf6jgu1ocogakpj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.login",
+            "certificate_hash": "86c3303fec869a75c7a50fc012cd3954f02a14f4"
+          }
+        },
+        {
+          "client_id": "1601040439-r69bokt0qoc64o47ctvieoclpnlee2bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEs9jCYPN4qKznKcHQ8KmqEeXSoR_yfRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1601040439-r69bokt0qoc64o47ctvieoclpnlee2bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
